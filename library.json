@@ -1,0 +1,22 @@
+{
+    "name": "HiwonderBusServo",
+    "version": "1.0.0",
+    "description": "ESP32 C++ library for controlling Hiwonder Bus Servos",
+    "keywords": "esp32",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/Tangle-System/HiwonderBusServo.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Matej Suchanek",
+        "email": "matej@spectoda.com",
+        "url": "spectoda.com",
+        "maintainer": true
+      }
+    ],
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+  }
